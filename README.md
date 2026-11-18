@@ -5,11 +5,12 @@
 ## Technologies 
     - Ubuntu Server
     - Docker Compose
-    - CasaOS
+    - Proxmox
     - Cloudflare
     - Git 
     - Python(school)
     - C (school)
+    - Java (School)
 
 ## Current Projects
     - Satisfactory dedicated server(wolveix)
