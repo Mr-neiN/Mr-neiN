@@ -11,6 +11,7 @@
     - Python(school)
     - C (school)
     - Java (School)
+    - Vibecoding
 
 ## Current Projects
     - Satisfactory dedicated server(wolveix)
