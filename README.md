@@ -1,6 +1,6 @@
 # Hi, I'm Yuri
 
-17 year-old  IT student interested in strategy games, homelabs, networking and self hosting.
+18 year-old  IT student interested in strategy games, homelabs, networking and self hosting.
 
 ## Technologies 
     - Ubuntu Server
